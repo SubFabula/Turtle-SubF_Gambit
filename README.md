@@ -7,7 +7,7 @@
 
 # NOTES
 
-- Use the src/index.ts as your server initializer/controller.
+- Use the src/index.js as your server initializer/controller.
 - Follow Ottomated's Youtube [video](https://www.youtube.com/watch?v=pwKRbsDbxqc) => https://www.youtube.com/watch?v=pwKRbsDbxqc (Minecraft, but I hacked into the OfflineTV server)
 - Use [CC: Tweaked's Wiki](https://tweaked.cc) to understand more about CC Turtle coding and behavior.
 - Compare to Ottomated's code from the [repository](https://github.com/ottomated/turtle-gambit) in Github.
