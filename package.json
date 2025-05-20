@@ -1,0 +1,12 @@
+{
+  "name": "turtle-subf_gambit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SubFabula/Turtle-SubF_Gambit.git",
+  "author": "SubFabula <150776952+SubFabula@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ngrok": "^5.0.0-beta.2",
+    "ws": "^8.18.2"
+  }
+}

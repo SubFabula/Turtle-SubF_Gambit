@@ -1,0 +1,21 @@
+# Files
+*.gitignored.*
+*.test_.*
+
+# Folders
+.gitignoredFolder
+.gitignoredVlog
+*.vscode
+
+# Extensions
+*.ink
+*.Ink
+
+### EXTRAS ###
+node_modules/
+.env
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.ngrok2/
